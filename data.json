@@ -1,0 +1,72 @@
+
+[
+    {
+        "id": 1,
+        "name": "Gym Shark Hoodie",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 108.00
+        },
+        "discount": 17,
+        "img": {
+            "singleImage": "./sitepictures/productsimage/product1.webp",
+            "thumbs": [
+                 "./sitepictures/productsimage/product1.webp",
+                 "./sitepictures/productsimage/product1back.webp"
+                
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Gym Shark Hoodie",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 108.00
+        },
+        "discount": 17,
+        "img": {
+            "singleImage": "./sitepictures/productsimage/product2.webp",
+            "thumbs": [
+                 "./sitepictures/productsimage/product2.webp",
+                 "./sitepictures/productsimage/product2back.webp"
+                
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Gym Shark Hoodie",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 108.00
+        },
+        "discount": 17,
+        "img": {
+            "singleImage": "./sitepictures/productsimage/product3.webp",
+            "thumbs": [
+                 "./sitepictures/productsimage/product3.webp",
+                 "./sitepictures/productsimage/product3back.webp"
+                
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Gym Shark Hoodie",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 108.00
+        },
+        "discount": 17,
+        "img": {
+            "singleImage": "./sitepictures/productsimage/product4.webp",
+            "thumbs": [
+                 "./sitepictures/productsimage/product4.webp",
+                 "./sitepictures/productsimage/product4back.webp"
+                
+            ]
+        }
+    }
+   
+]
